@@ -1,9 +1,9 @@
 {
-    "header_text": "What is important to you?",
+     "header_text": "What lumpectomy risks are important to you?",
     "elements": [
         {
             "type": "Text",
-            "text": "I want to make an independent decision about my breast surgery."
+            "text": "There is a very small chance that may need to return to the operating room if cancer cells are found in the edges (margins)."
         },
         {
             "type": "Buttons",

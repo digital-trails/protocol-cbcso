@@ -1,9 +1,9 @@
 {
-    "header_text": "What is important to you?",
+     "header_text": "What lumpectomy benefits are important to you?",
     "elements": [
         {
             "type": "Text",
-            "text": "I want to make an independent decision about my breast surgery."
+            "text": "Survival from my cancer is the same as mastectomy, but the surgery is less to go through"
         },
         {
             "type": "Buttons",

@@ -1,0 +1,12 @@
+{
+    "header_text": "What mastectomy risks are important to you?",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Other risks for yourself?"
+        },
+        {
+            "type": "Entry"
+        }
+    ]
+}

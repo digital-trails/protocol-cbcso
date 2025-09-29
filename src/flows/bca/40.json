@@ -1,0 +1,12 @@
+{
+    "header_text": "What mastectomy benefits are important to you?",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Other benefits for yourself?"
+        },
+        {
+            "type": "Entry"
+        }
+    ]
+}

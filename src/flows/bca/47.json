@@ -1,0 +1,20 @@
+{
+    "header_text": "Breast Cancer Surgery Decision Preference",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Now that you have thought about the facts and your feelings about your cancer diagnosis, you may have a general idea of which option is best for you. If so, please mark your decision."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0::Lumpectomy",
+                "1::Single Mastectomy",
+                "2::Unsure",
+                "!8::Other:"
+            ],
+            "selectable": true,
+            "multiselect": true
+        }
+    ]
+}

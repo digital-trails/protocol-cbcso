@@ -1,9 +1,9 @@
 {
-    "header_text": "What is important to you?",
+    "header_text": "What mastectomy benefits are important to you?",
     "elements": [
         {
             "type": "Text",
-            "text": "I want to make an independent decision about my breast surgery."
+            "text": "I may have greater peace of mind about future breast cancer recurrence risk."
         },
         {
             "type": "Buttons",
