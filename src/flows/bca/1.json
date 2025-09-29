@@ -1,0 +1,10 @@
+{
+  "header_text": "Breast Cancer Surgery Treatment Decision",
+  "elements": [
+    {
+      "type": "Text",
+      "html": true,
+      "text": "<h1>Section 1: Background Information about Breast Cancer Surgery Options</h1>\n<p>This section is for information only. There is nothing for you to complete.</p>\n\n<h2>Lumpectomy or Breast Conserving Surgery</h2>\n<ul>\n  <li>A lumpectomy removes only the tumor itself with some surrounding breast tissue.</li>\n  <li>Survival rates of lumpectomy is the same as mastectomy.</li>\n  <li>I may need radiation therapy after my surgery.</li>\n  <li>Most patients go home the same day.</li>\n  <li>Possible risks include:\n    <ul>\n      <li>Needing to have more tissue removed or a mastectomy – This might be the case if there are cancer cells at the edge of the tissue that was removed.</li>\n      <li>Collection of fluid or blood under the skin</li>\n      <li>Infection</li>\n      <li>Pain</li>\n      <li>Recurrent breast cancer</li>\n    </ul>\n  </li>\n</ul>\n\n<h2>Mastectomy</h2>\n<ul>\n  <li>A mastectomy removes the entire breast containing the tumor.</li>\n  <li>There are different mastectomy types; skin sparing, which conserves most of the breast skin, and nipple-sparing, which also preserves the nipple and areola.</li>\n  <li>The type of mastectomy you undergo depends on your cancer stage, location, medical history, among other factors.</li>\n  <li>You may have to stay overnight in the hospital and require general anesthesia.</li>\n  <li>Possible risks include:\n    <ul>\n      <li>Collection of fluid under the skin</li>\n      <li>Infection</li>\n      <li>Loss of the nipple or skin flap tissue due to poor wound healing</li>\n      <li>Pain</li>\n      <li>Arm or shoulder stiffness</li>\n      <li>Depression or sadness</li>\n    </ul>\n  </li>\n  <li>You may have surgical drains after your surgery, to prevent blood and fluid from building up under your skin.</li>\n</ul>"
+    }
+  ]
+}

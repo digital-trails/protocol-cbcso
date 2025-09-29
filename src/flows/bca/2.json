@@ -1,0 +1,18 @@
+{
+    "header_text": "What's imporant to you?",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "I do not like undergoing medical procedures; I would avoid surgery or choose the least invasive option whenever possible."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0::Important",
+                "1::Most Important",
+                "99::Not Clear"
+            ]
+        }
+    ]
+}
