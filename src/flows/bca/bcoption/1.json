@@ -50,5 +50,6 @@
       "name": "bcoption",
       "variable_name": "bcoption"
     }
-  ]
+  ],
+  "navigation_conditions": ["wait_for_complete"]
 }

@@ -14,5 +14,6 @@
             "name": "bcpreference",
             "variable_name": "bcpreference"
         }
-    ]
+    ],
+    "navigation_conditions": ["wait_for_complete"]
 }
