@@ -1,0 +1,54 @@
+{
+  "header_text": "Compare your Options",
+  "elements": [
+    {
+      "type": "order",
+      "sections": [
+        {
+            "text": "Benefits of lumpectomy (+)",
+            "items": [
+                {
+                    "text": "I want to preserve most of the natural breast shape and appearance."
+                },
+                {
+                    "text": "I want to retain as much breast sensation as possible."
+                },
+                {
+                    "text": "I may need less anesthesia and have a faster surgical recovery and fewer complications."
+                },
+                {
+                    "text": "Survival from my cancer is the same as mastectomy, but the surgery is less to go through."
+                },
+                {
+                    "text": "Other benefits for yourself?",
+                    "other": true
+                }
+            ]
+        },
+        {
+            "text": "Risks of lumpectomy (-)",
+            "items": [
+                {
+                    "text": "I may need radiation therapy to treat my breast cancer."
+                },
+                {
+                    "text": "I want to retain as much breast sensation as possible."
+                },
+                {
+                    "text": "There is a very small chance that may need to return to the operating room if cancer cells are found in the edges (margins).."
+                },
+                {
+                    "text": "I will need to continue breast imaging for screening"
+                },
+                {
+                    "text": "Other risks for yourself?",
+                    "other": true
+                }
+            ]
+        }
+      ],
+      "name": "bcoption",
+      "variable_name": "bcoption"
+    }
+  ]
+}

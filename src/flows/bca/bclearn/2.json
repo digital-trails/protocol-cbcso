@@ -1,0 +1,15 @@
+{
+  "header_text": "More About Lumpectomy",
+  "elements": [
+    {
+      "type": "Text",
+      "html": true,
+      "text": "<p>This section is for information only. There is nothing for you to complete.</p><br><br><b>Lumpectomy or Breast Conserving Surgery</b><br><ul><li>A lumpectomy removes only the tumor itself with some surrounding breast tissue.</li><li>Survival rates of lumpectomy is the same as mastectomy.</li><li>I may need radiation therapy after my surgery.</li><li>Most patients go home the same day.</li><li>Possible risks include:<ul><li>Needing to have more tissue removed or a mastectomy – This might be the case if there are cancer cells at the edge of the tissue that was removed.</li><li>Collection of fluid or blood under the skin</li><li>Infection</li><li>Pain</li><li>Recurrent breast cancer</li></ul></li></ul>"
+    }
+  ],
+    "condition": [
+        "about",
+        "=",
+        "lumpectomy"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "header_text": "Decision Preference",
+    "elements": [
+        {
+            "type": "Buttons",
+            "buttons": [
+                "lumpectomy::Lumpectomy",
+                "singlemastectomy::Single Mastectomy",
+                "unsure::Unsure",
+                "other::other, Explan"
+
+            ],
+            "selectable": true,
+            "name": "bcpreference",
+            "variable_name": "bcpreference"
+        }
+    ]
+}

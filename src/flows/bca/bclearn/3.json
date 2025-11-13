@@ -1,0 +1,15 @@
+{
+  "header_text": "More About Mastectomy",
+  "elements": [
+    {
+      "type": "Text",
+      "html": true,
+      "text": "<p>This section is for information only. There is nothing for you to complete.</p><br><br><b>Mastectomy</b><br><ul><li>A mastectomy removes the entire breast containing the tumor.</li><li>There are different mastectomy types; skin sparing, which conserves most of the breast skin, and nipple-sparing, which also preserves the nipple and areola.</li><li>The type of mastectomy you undergo depends on your cancer stage, location, medical history, among other factors.</li><li>You may have to stay overnight in the hospital and require general anesthesia.</li><li>Possible risks include:<ul><li>Collection of fluid under the skin</li><li>Infection</li><li>Loss of the nipple or skin flap tissue due to poor wound healing</li><li>Pain</li><li>Arm or shoulder stiffness</li><li>Depression or sadness</li></ul></li><li>You may have surgical drains after your surgery, to prevent blood and fluid from building up under your skin.</li></ul>"
+    }
+  ],
+  "condition": [
+        "about",
+        "=",
+        "mastectomy"
+    ]
+}

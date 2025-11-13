@@ -1,0 +1,16 @@
+{
+    "header_text": "Learn More About Breast Cancer Surgery",
+    "elements": [
+        {
+            "type": "Buttons",
+            "buttons": [
+                "lumpectomy::More About Lumpectomy",
+                "mastectomy::More About Mastectomy"
+
+            ],
+            "selectable": true,
+            "name": "about",
+            "variable_name": "about"
+        }
+    ]
+}
