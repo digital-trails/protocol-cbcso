@@ -12,6 +12,5 @@
             "name": "bcabout",
             "variable_name": "bcabout"
         }
-    ],
-    "navigation_conditions": ["wait_for_complete"]
+    ]
 }
