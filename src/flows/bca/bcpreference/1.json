@@ -11,7 +11,7 @@
             ],
             "selectable": true,
             "name": "bcpreference",
-            "variable_name": "bcpreference"
+            "variable_name": "global:bcpreference"
         }
     ]
 }

@@ -48,7 +48,7 @@
         }
       ],
       "name": "bcoption",
-      "variable_name": "bcoption"
+      "variable_name": "global:bcoption"
     }
   ]
 }

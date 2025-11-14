@@ -3,11 +3,7 @@
   "elements": [
     {
       "type": "Text",
-      "text": "We appreciate your feedback as we improve our patient care. Please circle your response for this brief survey."
-    },
-    {
-      "type": "Text",
-      "text": "I found this exercise helpful in the decision-making process."
+      "text": "Using this decision aid gave me greater peace of mind about my decision."
     },
     {
       "type": "Buttons",
