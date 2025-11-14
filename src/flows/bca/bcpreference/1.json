@@ -7,7 +7,7 @@
                 "lumpectomy::Lumpectomy",
                 "singlemastectomy::Single Mastectomy",
                 "unsure::Unsure",
-                "!Other::Explain:"
+                "!Other::Other, Explain:"
             ],
             "selectable": true,
             "name": "bcpreference",

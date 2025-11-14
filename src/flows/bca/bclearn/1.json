@@ -10,7 +10,7 @@
             ],
             "selectable": true,
             "name": "bcabout",
-            "variable_name": "global:bcabout"
+            "variable_name": "bcabout"
         }
     ]
 }
