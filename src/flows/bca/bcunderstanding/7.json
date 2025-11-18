@@ -7,7 +7,7 @@
         },
         {
             "type": "Text",
-            "text": "Pressure from friends, others, or social media in influencing your preferred type of breast surgery?\n\n1 = Not Important\n\n7 = Most Important"
+            "text": "Pressure from friends, others, or social media in influencing your preferred type of breast surgery?\n\n1 = Not Important\n\n3 = Most Important"
         },
         {
             "type": "Slider",

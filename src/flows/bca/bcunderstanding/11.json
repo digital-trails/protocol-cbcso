@@ -7,7 +7,7 @@
         },
         {
             "type": "Text",
-            "text": "Receiving guidance or direct input from your doctor about the best surgical choice for you?\n\n1 = Not Important\n\n7 = Most Important"
+            "text": "Receiving guidance or direct input from your doctor about the best surgical choice for you?\n\n1 = Not Important\n\n3 = Most Important"
         },
         {
             "type": "Slider",

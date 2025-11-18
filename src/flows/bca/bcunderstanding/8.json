@@ -7,7 +7,7 @@
         },
         {
             "type": "Text",
-            "text": "The option of breast reconstruction after your breast cancer surgery?\n\n1 = Not Important\n\n7 = Most Important"
+            "text": "The option of breast reconstruction after your breast cancer surgery?\n\n1 = Not Important\n\n3 = Most Important"
         },
         {
             "type": "Slider",

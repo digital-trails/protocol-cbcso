@@ -7,7 +7,7 @@
         },
         {
             "type": "Text",
-            "text": "Making an independent surgical decision without input from others?\n\n1 = Not Important\n\n7 = Most Important"
+            "text": "Making an independent surgical decision without input from others?\n\n1 = Not Important\n\n3 = Most Important"
         },
         {
             "type": "Slider",

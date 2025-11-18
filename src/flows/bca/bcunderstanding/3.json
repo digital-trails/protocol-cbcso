@@ -7,7 +7,7 @@
         },
         {
             "type": "Text",
-            "text": "Your level of worry about a second breast cancer or recurrence when choosing your surgical option?\n\n1 = Not Important\n\n7 = Most Important"
+            "text": "Your level of worry about a second breast cancer or recurrence when choosing your surgical option?\n\n1 = Not Important\n\n3 = Most Important"
         },
         {
             "type": "Slider",

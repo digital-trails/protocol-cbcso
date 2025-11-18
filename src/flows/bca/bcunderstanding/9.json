@@ -7,7 +7,7 @@
         },
         {
             "type": "Text",
-            "text": "Receiving guidance from your support system (relatives/friends) in helping you determine your beast surgery choice?\n\n1 = Not Important\n\n7 = Most Important"
+            "text": "Receiving guidance from your support system (relatives/friends) in helping you determine your beast surgery choice?\n\n1 = Not Important\n\n3 = Most Important"
         },
         {
             "type": "Slider",

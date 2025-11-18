@@ -7,7 +7,7 @@
         },
         {
             "type": "Text",
-            "text": "The possibility of surgical complications that may delay additional treatment that you may need for your current breast cancer?\n\n1 = Not Important\n\n7 = Most Important"
+            "text": "The possibility of surgical complications that may delay additional treatment that you may need for your current breast cancer?\n\n1 = Not Important\n\n3 = Most Important"
         },
         {
             "type": "Slider",

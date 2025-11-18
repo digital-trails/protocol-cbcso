@@ -7,7 +7,7 @@
         },
         {
             "type": "Text",
-            "text": "Breast symmetry to you after breast surgery?\n\n1 = Not Important\n\n7 = Most Important"
+            "text": "Breast symmetry to you after breast surgery?\n\n1 = Not Important\n\n3 = Most Important"
         },
         {
             "type": "Slider",

@@ -7,7 +7,7 @@
         },
         {
             "type": "Text",
-            "text": "The anticipated duration of recovery or the level of pain from the procedure?\n\n1 = Not Important\n\n7 = Most Important"
+            "text": "The anticipated duration of recovery or the level of pain from the procedure?\n\n1 = Not Important\n\n3 = Most Important"
         },
         {
             "type": "Slider",
