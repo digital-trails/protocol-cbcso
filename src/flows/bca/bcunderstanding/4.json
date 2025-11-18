@@ -1,0 +1,21 @@
+{
+    "header_text": "Understanding your Perspective, History and Values",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "How important is..."
+        },
+        {
+            "type": "Text",
+            "text": "Breast symmetry to you after breast surgery?\n\n1 = Not Important\n\n7 = Most Important"
+        },
+        {
+            "type": "Slider",
+            "min": "1",
+            "max": "3",
+            "others": [
+                "^Not Clear"
+            ]
+        }
+    ]
+}
