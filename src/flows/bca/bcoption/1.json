@@ -1,30 +1,34 @@
 {
-  "header_text": "Compare your Options",
-  "elements": [
-    {
-      "type": "listpicker",
-      "lists": [
+    "header_text": "Compare your Options",
+    "elements": [
         {
-            "name": "Benefits of lumpectomy (+)",
-            "items": [
-                "I want to preserve most of the natural breast shape and appearance.",
-                "I want to retain as much breast sensation as possible.",
-                "I may need less anesthesia and have a faster surgical recovery and fewer complications.",
-                "Survival from my cancer is the same as mastectomy, but the surgery is less to go through."
-            ]
+            "type": "Text",
+            "text": "Select the benefits and risks that matter most to you. Then swipe to reorder them by importance."
         },
         {
-            "name": "Risks of lumpectomy (-)",
-            "items": [
-                "I may need radiation therapy to treat my breast cancer.",
-                "I want to retain as much breast sensation as possible.",
-                "There is a very small chance that may need to return to the operating room if cancer cells are found in the edges (margins)..",
-                "I will need to continue breast imaging for screening"
-            ]
+            "type": "listpicker",
+            "lists": [
+                {
+                    "name": "Benefits of lumpectomy (+)",
+                    "items": [
+                        "I want to preserve most of the natural breast shape and appearance.",
+                        "I want to retain as much breast sensation as possible.",
+                        "I may need less anesthesia and have a faster surgical recovery and fewer complications.",
+                        "Survival from my cancer is the same as mastectomy, but the surgery is less to go through."
+                    ]
+                },
+                {
+                    "name": "Risks of lumpectomy (-)",
+                    "items": [
+                        "I may need radiation therapy to treat my breast cancer.",
+                        "I want to retain as much breast sensation as possible.",
+                        "There is a very small chance that may need to return to the operating room if cancer cells are found in the edges (margins)..",
+                        "I will need to continue breast imaging for screening"
+                    ]
+                }
+            ],
+            "other": "Other benefits or risks for  yourself?",
+            "variable_name": "global:bcoption"
         }
-      ],
-      "other": "Other benefits or risks for  yourself?",
-      "variable_name": "global:bcoption"
-    }
-  ]
+    ]
 }
