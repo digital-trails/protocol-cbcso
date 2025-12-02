@@ -1,54 +1,35 @@
 {
-  "header_text": "Compare your Options",
-  "elements": [
-    {
-      "type": "order",
-      "sections": [
+    "header_text": "Compare your Options",
+    "header_info": "How to Prioritize Your Benefits and Risks\n\nFirst, review the list and tap on the benefits and risks of lumpectomy that are important to you. Your selections will appear in a separate list below.\n\nNext, you can rank these items by swiping left on any item. Use the up and down arrows to move items higher or lower in your list. Place the most important considerations at the top and the least important at the bottom.\n\nThis prioritization helps you clarify what matters most in your decision-making process and can guide your discussions with your healthcare provider about the best treatment option for your situation.",
+    "elements": [
         {
-            "text": "Benefits of lumpectomy (+)",
-            "items": [
-                {
-                    "text": "I want to preserve most of the natural breast shape and appearance."
-                },
-                {
-                    "text": "I want to retain as much breast sensation as possible."
-                },
-                {
-                    "text": "I may need less anesthesia and have a faster surgical recovery and fewer complications."
-                },
-                {
-                    "text": "Survival from my cancer is the same as mastectomy, but the surgery is less to go through."
-                },
-                {
-                    "text": "Other benefits for yourself?",
-                    "other": true
-                }
-            ]
+            "type": "Text",
+            "text": "Select the benefits and risks that matter most to you. Then swipe to reorder them by importance."
         },
         {
-            "text": "Risks of lumpectomy (-)",
-            "items": [
+            "type": "listpicker",
+            "lists": [
                 {
-                    "text": "I may need radiation therapy to treat my breast cancer."
+                    "name": "Benefits of lumpectomy (+)",
+                    "items": [
+                        "I want to preserve most of the natural breast shape and appearance.",
+                        "I want to retain as much breast sensation as possible.",
+                        "I may need less anesthesia and have a faster surgical recovery and fewer complications.",
+                        "Survival from my cancer is the same as mastectomy, but the surgery is less to go through."
+                    ]
                 },
                 {
-                    "text": "I want to retain as much breast sensation as possible."
-                },
-                {
-                    "text": "There is a very small chance that may need to return to the operating room if cancer cells are found in the edges (margins).."
-                },
-                {
-                    "text": "I will need to continue breast imaging for screening"
-                },
-                {
-                    "text": "Other risks for yourself?",
-                    "other": true
+                    "name": "Risks of lumpectomy (-)",
+                    "items": [
+                        "I may need radiation therapy to treat my breast cancer.",
+                        "I may be more worried about breast cancer recurrence.",
+                        "There is a very small chance that may need to return to the operating room if cancer cells are found in the edges (margins)..",
+                        "I will need to continue breast imaging for screening"
+                    ]
                 }
-            ]
+            ],
+            "other": "Other benefits or risks for  yourself?",
+            "variable_name": "global:bcoption"
         }
-      ],
-      "name": "bcoption",
-      "variable_name": "global:bcoption"
-    }
-  ]
+    ]
 }
