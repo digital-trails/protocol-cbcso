@@ -12,19 +12,19 @@
                 {
                     "name": "Benefits of lumpectomy (+)",
                     "items": [
-                        "I want to preserve most of the natural breast shape and appearance.",
-                        "I want to retain as much breast sensation as possible.",
-                        "I may need less anesthesia and have a faster surgical recovery and fewer complications.",
-                        "Survival from my cancer is the same as mastectomy, but the surgery is less to go through."
+                        "0::I want to preserve most of the natural breast shape and appearance.",
+                        "1::I want to retain as much breast sensation as possible.",
+                        "2::I may need less anesthesia and have a faster surgical recovery and fewer complications.",
+                        "3::Survival from my cancer is the same as mastectomy, but the surgery is less to go through."
                     ]
                 },
                 {
                     "name": "Risks of lumpectomy (-)",
                     "items": [
-                        "I may need radiation therapy to treat my breast cancer.",
-                        "I may be more worried about breast cancer recurrence.",
-                        "There is a very small chance that may need to return to the operating room if cancer cells are found in the edges (margins)..",
-                        "I will need to continue breast imaging for screening"
+                        "4::I may need radiation therapy to treat my breast cancer.",
+                        "5::I may be more worried about breast cancer recurrence.",
+                        "6::There is a very small chance that may need to return to the operating room if cancer cells are found in the edges (margins)..",
+                        "7::I will need to continue breast imaging for screening"
                     ]
                 }
             ],
