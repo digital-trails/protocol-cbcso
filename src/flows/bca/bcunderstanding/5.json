@@ -17,7 +17,7 @@
             "others": [
                 "^Not Clear"
             ],
-            "report": "How important is the possibility of surgical complications that may delay additional treatment that you may need for your current breast cancer?\n\n1 = Not Important\n\n3 = Most Important"
+            "report": "How important is the possibility of surgical complications that may delay additional treatment that you may need for your current breast cancer?\n1 = Not Important\n3 = Most Important"
         }
     ]
 }
