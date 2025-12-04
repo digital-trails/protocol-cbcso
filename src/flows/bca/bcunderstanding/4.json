@@ -16,7 +16,8 @@
             "display_slider_value": false,
             "others": [
                 "^Not Clear"
-            ]
+            ],
+            "report": "How important is breast symmetry to you after breast surgery?"
         }
     ]
 }

@@ -29,7 +29,8 @@
                 }
             ],
             "other": "Other benefits or risks for  yourself?",
-            "variable_name": "global:bcoption"
+            "variable_name": "global:bcoption",
+            "report": "Benefits and Risks of Lumpectomy Ranked by Importance"
         }
     ]
 }

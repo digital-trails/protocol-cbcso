@@ -16,7 +16,8 @@
             "display_slider_value": false,
             "others": [
                 "^Not Clear"
-            ]
+            ],
+            "report": "How important is receiving guidance or direct input from your doctor about the best surgical choice for you?"
         }
     ]
 }
