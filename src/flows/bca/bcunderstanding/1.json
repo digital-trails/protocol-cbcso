@@ -3,7 +3,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "This section is to help clarify your values. What is important to you?"
+            "text": "This section is to help clarify your values. What is important to you?\n\n1 = Not Important\n\n3 = Most Important"
         },
         {
             "type": "Text",

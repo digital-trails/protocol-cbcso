@@ -17,7 +17,7 @@
             "others": [
                 "^Not Clear"
             ],
-            "report": "How important is making an independent surgical decision without input from others?"
+            "report": "How important is making an independent surgical decision without input from others?\n\n1 = Not Important\n\n3 = Most Important"
         }
     ]
 }

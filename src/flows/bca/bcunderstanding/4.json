@@ -17,7 +17,7 @@
             "others": [
                 "^Not Clear"
             ],
-            "report": "How important is breast symmetry to you after breast surgery?"
+            "report": "How important is breast symmetry to you after breast surgery?\n\n1 = Not Important\n\n3 = Most Important"
         }
     ]
 }
