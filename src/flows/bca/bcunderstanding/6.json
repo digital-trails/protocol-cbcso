@@ -17,7 +17,8 @@
             "others": [
                 "^Not Clear"
             ],
-            "report": "How important is the anticipated duration of recovery or the level of pain from the procedure?\n1 = Not Important\n3 = Most Important"
+            "report": "How important is the anticipated duration of recovery or the level of pain from the procedure?\n1 = Not Important\n3 = Most Important",
+            "variable_name": "global:bcunderstanding5"
         }
     ]
 }

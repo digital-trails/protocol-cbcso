@@ -17,7 +17,8 @@
             "others": [
                 "^Not Clear"
             ],
-            "report": "How important is prressure from friends, others, or social media in influencing your preferred type of breast surgery?\n1 = Not Important\n3 = Most Important"
+            "report": "How important is prressure from friends, others, or social media in influencing your preferred type of breast surgery?\n1 = Not Important\n3 = Most Important",
+            "variable_name": "global:bcunderstanding6"
         }
     ]
 }
