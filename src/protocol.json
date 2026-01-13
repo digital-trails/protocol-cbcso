@@ -10,38 +10,40 @@
           "message": "Consideration of Breast Cancer Surgical Options"
         },
         {
-          "type": "button",
-          "action": {
-            "text": "Breast Cancer Surgery",
-             "action": "flow://flows/bca"
-          }
-        },
-        {
-          "type": "button",
-          "action": {
-            "text": "Breast Reconstruction Surgery",
-             "action": "flow://flows/brs",
-             "markcompleted": true
-          }
-        },
-        {
-          "type": "tiles",
-          "actions": [
+          "type": "reports",
+          "title": "Breast Cancer Surgery",
+          "backgroundcolor": "#1A5C2FDA",
+          "reports": [
             {
-              "text": "MoreAboutBCSOptions",
-              "action": "https://www.google.com",
-              "backgroundcolor": "#1A5C2FDA"
+              "title": "Learn More About Breast Cancer Surgery",
+              "action": "flow://flows/bca/bclearn",
+              "icon": "/assets/learning.png"
             },
             {
-              "text": "MoreAboutBRSOptions",
-              "action": "https://www.google.com",
-              "backgroundcolor": "#1A00C2FF"
+              "title": "Understanding your Perspective, History and Values",
+              "action": "flow://flows/bca/bcunderstanding",
+              "icon": "/assets/file.png",
+              "report": true
+            },
+            {
+              "title": "Compare your Options",
+              "action": "flow://flows/bca/bcoption",
+              "icon": "/assets/compare.png",
+              "report": true
+            },
+            {
+              "title": "Decision Preference",
+              "action": "flow://flows/bca/bcpreference",
+              "icon": "/assets/decision-making.png",
+              "report": true
+            },
+            {
+              "title": "Evaluate the Decision Process",
+              "action": "flow://flows/bca/bcdecision",
+              "icon": "/assets/assessment.png",
+              "report": true
             }
           ]
-        },
-        {
-          "type": "reports",
-          "title": "Reports"
         }
       ]
     }
