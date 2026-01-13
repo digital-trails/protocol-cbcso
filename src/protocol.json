@@ -52,30 +52,30 @@
           "reports": [
             {
               "title": "Learn More About Breast Cancer Surgery",
-              "action": "flow://flows/bca/bclearn",
+              "action": "flow://flows/brs/bclearn",
               "icon": "/assets/learning.png"
             },
             {
               "title": "Understanding your Perspective, History and Values",
-              "action": "flow://flows/bca/bcunderstanding",
+              "action": "flow://flows/brs/bcunderstanding",
               "icon": "/assets/file.png",
               "report": true
             },
             {
               "title": "Compare your Options",
-              "action": "flow://flows/bca/bcoption",
+              "action": "flow://flows/brs/bcoption",
               "icon": "/assets/compare.png",
               "report": true
             },
             {
               "title": "Decision Preference",
-              "action": "flow://flows/bca/bcpreference",
+              "action": "flow://flows/brs/bcpreference",
               "icon": "/assets/decision-making.png",
               "report": true
             },
             {
               "title": "Evaluate the Decision Process",
-              "action": "flow://flows/bca/bcdecision",
+              "action": "flow://flows/brs/bcdecision",
               "icon": "/assets/assessment.png",
               "report": true
             }
