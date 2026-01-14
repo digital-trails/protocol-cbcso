@@ -15,7 +15,7 @@
         },
         {
           "type": "reports",
-          "title": "Surgery Options For Breast Cancer",
+          "title": "Breast Cancer Surgery",
           "backgroundcolor": "#1A00C2FF",
           "collective": true,
           "reports": [
@@ -47,7 +47,7 @@
         },
         {
           "type": "reports",
-          "title": "Surgery Options for Breast Reconstruction",
+          "title": "Breast Reconstruction",
           "backgroundcolor": "#1A206AFF",
           "reports": [
             {
@@ -68,7 +68,7 @@
               "title": "Evaluate the Decision Process",
               "action": "flow://flows/brs/decision",
               "report": true
-            }
+              }
           ]
         }
       ]
