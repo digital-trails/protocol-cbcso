@@ -1,0 +1,15 @@
+{
+  "header_text": "General Information",
+  "elements": [
+    {
+      "type": "Text",
+      "html": true,
+      "text": "<ul><li>There are different mastectomy types; skin sparing, which conserves most of the breast skin, and nipple-sparing, which also preserves the nipple and areola.</li><li>Both types of mastectomies are compatible with implant-based and using your own tissue for reconstruction.</li><li>For patients where the nipple and areola were not conserved nipple reconstruction or areolar tattooing is an option.</li><li>Undergoing breast reconstruction does not compromise your cancer treatment.</li><li>Breast reconstruction is not medically necessary. It is a personal choice, and some women choose not to have reconstruction after mastectomy.</li><li>You may have reconstruction at the same time of mastectomy or after their mastectomy in a delayed fashion.</li><li>Not all patients are good candidates for each of the types of reconstruction.</li><li>Many patients do require additional cosmetic surgeries following reconstruction to create the best final result.</li><li>Breast reconstruction can be a long process. It may take several months to a year depending on your individual experience.</li><li>Factors that may affect your reconstructive options include smoking status, body shape, prior surgeries, your health history, cancer treatments, and personal choice.</li><li>Most patients will lose feeling in the skin overlying the reconstructed breast after mastectomy, which may be permanent. A reconstructed breast won't look or feel the same as your breast did, but most women are happy with the results.</li><li>The complications of breast reconstruction include bleeding, infection, wound healing problems, buildup of blood or clear fluid in the wound, scar tissue, breast asymmetry, and poor cosmesis.</li><li>Patients typically remain in the hospital for 1-5 days following breast reconstruction, depending on the specific procedure and your individual health history – full recovery may take several weeks to months.</li><li>After your reconstruction, you will gradually resume physical activity, avoiding strenuous exercise for several weeks, which may impact your daily responsibilities.</li><li>Your physical activity restrictions will be also dependent on whether you've had abdominal flap procedure or implant-based reconstruction.</li><li>Your return to work will depend on the nature of your job. For non-physical roles, it may take up to 4 to 6 weeks, while those with physically demanding jobs may need longer prior to their return. Similarly, you will be limited in your ability to care our childcare or home responsibilities requiring physical work.</li></ul>"
+    }
+  ],
+    "condition": [
+        "brsabout",
+        "=",
+        "general"
+    ]
+}

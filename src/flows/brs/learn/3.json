@@ -1,0 +1,15 @@
+{
+  "header_text": "Implant Based Reconstruction",
+  "elements": [
+    {
+      "type": "Text",
+      "html": true,
+      "text": "<ul><li>Implants come in different forms. They can be filled with saline or silicone gel. Your surgeon will work with you to decide which implant is best for you.</li><li>Breast implants are not lifetime devices. You may need additional surgeries due to unplanned complications or desired aesthetic changes related to your breast implants.</li><li>On average, implants need to be replaced every 10 years.</li><li>Studies have shown an extremely rare type of cancer called Breast Implant Associated Anaplastic Large Cell Lymphoma (BIA-ALCL) to occur in the scar capsule next to textured breast implant. Women with BIA-ALCL develop symptoms of breast swelling or pain many years after their implant surgery.</li><li>Some of the risks associated with implant-based reconstruction as reported by the FDA include breast pain (37%), skin or nipple sensation changes (35%), breast asymmetry (28%), infection requiring implant removal (9%), fluid collections (7%), loss of breast skin or nipple (2%).</li><li>The recovery following implant-based reconstruction is generally shorter than autologous reconstruction due to the fewer surgical sites and less complex procedure.</li><li>There will be limitation for early strenuous arm exercise, which can change the position of your breast tissue implants and increase swelling/pain.</li><li>Your surgical team will give you information about range of motion exercise to avoid stiffness in your shoulder(s) during your early recovery period.</li></ul>"
+    }
+  ],
+  "condition": [
+        "brsabout",
+        "=",
+        "implant"
+    ]
+}

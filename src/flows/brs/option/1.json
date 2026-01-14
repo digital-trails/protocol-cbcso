@@ -1,0 +1,44 @@
+{
+    "header_text": "Compare your Options",
+    "header_info": "How to Prioritize Your Benefits and Risks\n\nFirst, review the list and tap on the items that are important to you. Your selections will appear in a separate list below.\n\nNext, you can rank these items by swiping left on any item. Use the up and down arrows to move items higher or lower in your list. Place the most important considerations at the top and the least important at the bottom.\n\nThis prioritization helps you clarify what matters most in your decision-making process and can guide your discussions with your healthcare provider about the best treatment option for your situation.",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Select the items that matter most to you. Then swipe to reorder them by importance."
+        },
+        {
+            "type": "listpicker",
+            "lists": [
+                {
+                    "name": "Implant-Based Reconstruction",
+                    "items": [
+                        "1::I I may have a shorter recovery time compared to using my own tissue.",
+                        "2::I may experience complications with the implant that requires more surgery.",
+                        "3::On average, implants need to be replaced every 10 years.",
+                        "4::I am worried about the potential long-term side effects or risk of cancer related to implants."
+                    ]
+                },
+                {
+                    "name": "Autologous (Tissue-Based) Reconstruction",
+                    "items": [
+                        "5::I may experience a longer recovery period with a more invasive procedure.",
+                        "6::I want the most natural look and feel.",
+                        "7::I want to avoid implant or material that is not my own tissue."
+                    ]
+                },
+                {
+                    "name": "Flat Closure (No Reconstruction)",
+                    "items": [
+                        "8::I may feel empowered by this appearance.",
+                        "9::I would like low maintenance going forward or not wearing a bra.",
+                        "10::I will likely have a shorter recovery time.",
+                        "11::I may not be satisfied with the appearance."
+                    ]
+                }
+            ],
+            "other": "Other considerations for yourself?",
+            "variable_name": "global:brsoption",
+            "report": "Breast Reconstruction Balance Sheet Ranked by Importance"
+        }
+    ]
+}

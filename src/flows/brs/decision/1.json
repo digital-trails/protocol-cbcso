@@ -1,0 +1,24 @@
+{
+  "header_text": "Decision Preference",
+  "elements": [
+    {
+      "type": "Text",
+      "text": "We appreciate your feedback as we improve our patient care. Please circle your response for this brief survey."
+    },
+    {
+      "type": "Text",
+      "text": "I found this exercise helpful in the decision-making process."
+    },
+    {
+      "type": "Buttons",
+      "buttons": [
+        "0::Strongly Disagree",
+        "1::Disagree",
+        "2::Neutral",
+        "3::Agree",
+        "4::Strongly Agree"
+      ],
+      "selectable": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "header_text": "Decision Preference",
+  "elements": [
+    {
+      "type": "Text",
+      "text": "Using this decision aid gave me greater peace of mind about my decision."
+    },
+    {
+      "type": "Buttons",
+      "buttons": [
+        "0::Strongly Disagree",
+        "1::Disagree",
+        "2::Neutral",
+        "3::Agree",
+        "4::Strongly Agree"
+      ],
+      "selectable": true
+    }
+  ]
+}

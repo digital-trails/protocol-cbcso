@@ -1,0 +1,17 @@
+{
+    "header_text": "Decision Preference",
+    "elements": [
+        {
+            "type": "Buttons",
+            "buttons": [
+                "autologous::Autologous/My own tissue",
+                "implant::Implant-Based",
+                "flat::Flat Closure",
+                "!Other::Other, Explain:"
+            ],
+            "selectable": true,
+            "name": "brspreference",
+            "variable_name": "global:brspreference"
+        }
+    ]
+}

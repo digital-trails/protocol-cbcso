@@ -1,0 +1,18 @@
+{
+    "header_text": "Learn",
+    "elements": [
+        {
+            "type": "Buttons",
+            "buttons": [
+                "general::General Information About Breast Reconstruction",
+                "implant::More About Implant Based Reconstruction",
+                "tissue::More About Autologous  Tissue Reconstruction",
+                "flat::More About Flat Closure"
+
+            ],
+            "selectable": true,
+            "name": "brsabout",
+            "variable_name": "brsabout"
+        }
+    ]
+}

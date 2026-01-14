@@ -1,0 +1,15 @@
+{
+  "header_text": "Autologous  Tissue Reconstruction",
+  "elements": [
+    {
+      "type": "Text",
+      "html": true,
+      "text": "<ul><li>Autologous reconstruction means that your own tissue from another place on your body, one that has excess tissue, will be used to recreate your breast. This is most commonly abdominal (belly) tissue.</li><li>The areas of tissue are called 'free flaps' because they are removed from their blood supply and transferred to another place.</li><li>Your plastic surgeon will try to use an abdominal flap that avoids taking muscle. If that is not possible, there is an option that uses a small strip of muscle that does not interfere with abdominal function after surgery.</li><li>There are specific risks associated with taking abdominal flaps including abdominal weakness, hernia formation or bulging, and abdominal scarring that may prolong recovery. In addition to risk of fluid collection, infection and pain, at both the abdominal and breast surgical site.</li><li>If tissue from lower abdomen cannot be used, tissue from your inner thigh may be used to complete breast reconstruction. This may result in a smaller reconstruction and may require additional revisions if a larger breast reconstruction is desired.</li><li>The recovery period following abdominal and other flaps is longer than breast implant reconstruction given the additional surgical sites.</li><li>If an abdominal flap was used, you will be restricted from strenuous abdominal activity for about 2-3 months.</li></ul>"
+    }
+  ],
+  "condition": [
+        "brsabout",
+        "=",
+        "tissue"
+    ]
+}
