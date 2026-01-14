@@ -8,7 +8,10 @@
           "type": "alert",
           "title": "BCS Options",
           "message": "Consideration of Breast Cancer Surgical Options",
-          "icon": "/assets/assessment.png"
+          "icon": {
+            "url": "/assets/assessment.png",
+            "tint": false
+          }
         },
         {
           "type": "reports",
