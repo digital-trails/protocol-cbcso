@@ -17,6 +17,7 @@
           "type": "reports",
           "title": "Surgery Options For Breast Cancer",
           "backgroundcolor": "#1A00C2FF",
+          "collective": true,
           "reports": [
             {
               "title": "Learn More About Breast Cancer Surgery",
