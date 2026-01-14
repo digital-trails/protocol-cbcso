@@ -11,7 +11,8 @@
             ],
             "selectable": true,
             "name": "bcpreference",
-            "variable_name": "global:bcpreference"
+            "variable_name": "global:bcpreference",
+            "report": "Breast Cancer Surgery Decision Preference"
         }
     ]
 }

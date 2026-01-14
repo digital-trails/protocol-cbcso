@@ -14,7 +14,8 @@
         "3::Agree",
         "4::Strongly Agree"
       ],
-      "selectable": true
+      "selectable": true,
+      "report": "Using this decision aid gave me greater peace of mind about my decision."
     }
   ]
 }

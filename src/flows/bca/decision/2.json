@@ -14,7 +14,8 @@
         "3::Agree",
         "4::Strongly Agree"
       ],
-      "selectable": true
+      "selectable": true,
+      "report": "My doctor seemed to use my answers in this exercise to help guide a decision process (I am told that this is called “informed, shared decision making” for difficult health care decisions)."
     }
   ]
 }
