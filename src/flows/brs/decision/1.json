@@ -19,7 +19,8 @@
         "4::Strongly Agree"
       ],
       "selectable": true,
-      "report": "I found this exercise helpful in the decision-making process."
+      "report": "I found this exercise helpful in the decision-making process.",
+      "variable_name": "brsdecision1"
     }
   ]
 }

@@ -15,7 +15,8 @@
         "4::Strongly Agree"
       ],
       "selectable": true,
-      "report": "Using this decision aid gave me greater peace of mind about my decision."
+      "report": "Using this decision aid gave me greater peace of mind about my decision.",
+      "variable_name": "bcdecision3"
     }
   ]
 }

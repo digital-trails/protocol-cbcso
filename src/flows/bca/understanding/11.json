@@ -18,7 +18,7 @@
                 "^Not Clear"
             ],
             "report": "How important is receiving guidance or direct input from your doctor about the best surgical choice for you?\n1 = Not Important\n3 = Most Important",
-            "variable_name": "global:bcunderstanding"
+            "variable_name": "bcunderstanding"
         }
     ]
 }

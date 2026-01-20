@@ -18,7 +18,7 @@
                 "^Not Clear"
             ],
             "report": "How important is making an independent surgical decision without input from others?\n1 = Not Important\n3 = Most Important",
-            "variable_name": "global:bcunderstanding9"
+            "variable_name": "bcunderstanding9"
         }
     ]
 }

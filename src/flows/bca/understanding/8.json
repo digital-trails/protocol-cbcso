@@ -18,7 +18,7 @@
                 "^Not Clear"
             ],
             "report": "How important is the option of breast reconstruction after your breast cancer surgery?\n1 = Not Important\n3 = Most Important",
-            "variable_name": "global:bcunderstanding7"
+            "variable_name": "bcunderstanding7"
         }
     ]
 }

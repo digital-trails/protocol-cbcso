@@ -11,7 +11,7 @@
             ],
             "selectable": true,
             "name": "brspreference",
-            "variable_name": "global:brspreference",
+            "variable_name": "brspreference",
             "report": "Breast Reconstruction Decision Preference"
         }
     ]

@@ -37,7 +37,7 @@
                 }
             ],
             "other": "Other considerations for yourself?",
-            "variable_name": "global:brsoption",
+            "variable_name": "brsoption",
             "report": "Breast Reconstruction Balance Sheet Ranked by Importance"
         }
     ]
