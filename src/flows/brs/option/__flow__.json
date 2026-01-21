@@ -1,6 +1,5 @@
 {
     "generate_report": true,
     "restore_elements": true,
-    "pretty_name": "Breast Reconstruction Options Evaluation",
-    "description": "Ranked Options by Importance"
+    "pretty_name": "Breast Reconstruction Options Evaluation"
 }

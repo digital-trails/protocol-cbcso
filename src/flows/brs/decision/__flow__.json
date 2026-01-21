@@ -1,6 +1,5 @@
 {
     "generate_report": true,
     "restore_elements": true,
-    "pretty_name": "Breast Reconstruction Options Evaluation",
-    "description": "Evaluation of the Decision Preference"
+    "pretty_name": "Breast Reconstruction Options Evaluation"
 }

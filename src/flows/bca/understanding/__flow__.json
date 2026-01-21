@@ -1,6 +1,5 @@
 {
     "generate_report": true,
     "restore_elements": true,
-    "pretty_name": "Breast Cancer Surgery Options Evaluation",
-    "description": "Decision Preference"
+    "pretty_name": "Breast Cancer Surgery Options Evaluation"
 }
