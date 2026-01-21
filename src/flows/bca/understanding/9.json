@@ -17,7 +17,7 @@
             "others": [
                 "^Not Clear"
             ],
-            "report": "How important is receiving guidance from your support system (relatives/friends) in helping you determine your beast surgery choice?\n1 = Not Important\n3 = Most Important",
+            "report": "How important is receiving guidance from your support system (relatives/friends) in helping you determine your beast surgery choice?\n\n1 = Not Important\n3 = Most Important",
             "variable_name": "bcunderstanding8"
         }
     ]

@@ -17,7 +17,7 @@
             "others": [
                 "^Not Clear"
             ],
-            "report": "How important is it to you to undergo any or all procedures to be sure that you do not have or develop a second breast cancer or recurrence?\n1 = Not Important\n3 = Most Important",
+            "report": "How important is it to you to undergo any or all procedures to be sure that you do not have or develop a second breast cancer or recurrence?\n\n1 = Not Important\n3 = Most Important",
             "variable_name": "bcunderstanding1"
         }
     ]

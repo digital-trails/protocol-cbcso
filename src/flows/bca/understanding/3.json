@@ -17,7 +17,7 @@
             "others": [
                 "^Not Clear"
             ],
-            "report": "How important is your level of worry about a second breast cancer or recurrence when choosing your surgical option?\n1 = Not Important\n3 = Most Important",
+            "report": "How important is your level of worry about a second breast cancer or recurrence when choosing your surgical option?\n\n1 = Not Important\n3 = Most Important",
             "variable_name": "bcunderstanding2"
         }
     ]
