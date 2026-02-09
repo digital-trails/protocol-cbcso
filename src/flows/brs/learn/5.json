@@ -3,8 +3,7 @@
   "elements": [
     {
       "type": "Text",
-      "html": true,
-      "text": "<ul><li>Some patients opt for a flat closure in which no breast mound is created, instead the chest is made as flat or smooth as possible. This may be done by your breast surgeon or a plastic surgeon.</li></ul>"
+      "text": "Some patients opt for a flat closure in which no breast mound is created, instead the chest is made completely flat or smooth. This may be done by your breast surgeon or a plastic surgeon."
     }
   ],
   "condition": [
