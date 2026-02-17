@@ -20,7 +20,7 @@
           "backgroundcolor": "#1A00C2FF",
           "reports": [
             {
-              "title": "Learn More About Breast Cancer Surgery",
+              "title": "More About Breast Cancer Surgery",
               "action": "flow://flows/bca/learn"
             },
             {
@@ -52,7 +52,7 @@
           "backgroundcolor": "#1A206AFF",
           "reports": [
             {
-              "title": "Learn More about Breast Reconstruction Surgery",
+              "title": "More about Breast Reconstruction Surgery",
               "action": "flow://flows/brs/learn"
             },
             {
