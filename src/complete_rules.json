@@ -1,0 +1,12 @@
+{
+    "type": "responses",
+    "responses": {
+        "flow://flows/bca/understanding": 1,
+        "flow://flows/bca/option": 1,
+        "flow://flows/bca/preference": 1,
+        "flow://flows/bca/decision": 1,
+        "flow://flows/brs/option": 1,
+        "flow://flows/brs/preference": 1,
+        "flow://flows/brs/decision": 1
+    }
+}
