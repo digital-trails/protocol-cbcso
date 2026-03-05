@@ -1,12 +1,11 @@
 {
   "home": {
-    "title": "Breast Surgery Options",
     "element": {
       "type": "list",
       "elements": [
         {
           "type": "alert",
-          "title": "BCS Options",
+          "title": "Breast Surgery Options",
           "message": "Consideration of Breast Cancer Surgical Options",
           "icon": {
             "url": "/assets/assessment.png",
