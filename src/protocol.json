@@ -1,11 +1,12 @@
 {
   "home": {
+    "title": "BCS Options",
     "element": {
       "type": "list",
       "elements": [
         {
           "type": "alert",
-          "title": "Breast Surgery Options",
+          "title": "BCS Options",
           "message": "Consideration of Breast Cancer Surgical Options",
           "icon": {
             "url": "/assets/assessment.png",
@@ -13,63 +14,63 @@
           }
         },
         {
-          "type": "reports",
+          "type": "sublist",
           "title": "Breast Cancer Surgery",
           "icon": "/assets/surgery.png",
           "backgroundcolor": "#1A00C2FF",
-          "reports": [
+          "actions": [
             {
-              "title": "More About Breast Cancer Surgery",
+              "text": "More About Breast Cancer Surgery",
               "action": "flow://flows/bca/learn"
             },
             {
-              "title": "Understanding your Perspective, History and Values",
-              "action": "flow://flows/bca/understanding",
-              "report": true
+              "text": "Understanding your Perspective, History and Values",
+              "action": "flow://flows/bca/understanding"
             },
             {
-              "title": "Compare your Options",
-              "action": "flow://flows/bca/option",
-              "report": true
+              "text": "Compare your Options",
+              "action": "flow://flows/bca/option"
             },
             {
-              "title": "Decision Preference",
-              "action": "flow://flows/bca/preference",
-              "report": true
+              "text": "Decision Preference",
+              "action": "flow://flows/bca/preference"
             },
             {
-              "title": "Evaluate the Decision Process",
-              "action": "flow://flows/bca/decision",
-              "report": true
+              "text": "Evaluate the Decision Process",
+              "action": "flow://flows/bca/decision"
             }
           ]
         },
         {
-          "type": "reports",
+          "type": "sublist",
           "title": "Breast Reconstruction",
           "icon": "/assets/reconstruct.png",
           "backgroundcolor": "#1A206AFF",
-          "reports": [
+          "actions": [
             {
-              "title": "More about Breast Reconstruction Surgery",
+              "text": "More about Breast Reconstruction Surgery",
               "action": "flow://flows/brs/learn"
             },
             {
-              "title": "Compare your Options",
-              "action": "flow://flows/brs/option",
-              "report": true
+              "text": "Compare your Options",
+              "action": "flow://flows/brs/option"
             },
             {
-              "title": "Decision Preference",
-              "action": "flow://flows/brs/preference",
-              "report": true
+              "text": "Decision Preference",
+              "action": "flow://flows/brs/preference"
             },
             {
-              "title": "Evaluate the Decision Process",
-              "action": "flow://flows/brs/decision",
-              "report": true
+              "text": "Evaluate the Decision Process",
+              "action": "flow://flows/brs/decision"
             }
           ]
+        },
+        {
+          "type": "button",
+          "action": {
+            "text": "View & Export Reports",
+            "action": "navpage://History"
+          }
         }
       ]
     }
