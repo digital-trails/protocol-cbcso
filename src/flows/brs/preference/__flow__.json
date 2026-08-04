@@ -1,6 +1,8 @@
 {
-    "generate_report": true,
     "restore_elements": true,
     "pretty_name": "Breast Reconstruction Options Evaluation",
-    "save_report_count": 1
+     "history_config": {
+        "save_count": 1,
+        "save_report": true
+    }
 }
