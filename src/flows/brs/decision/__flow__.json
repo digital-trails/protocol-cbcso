@@ -1,5 +1,5 @@
 {
-    "restore_elements": true,
+    "restore_mode": "OnFlowCompletion",
     "pretty_name": "Breast Reconstruction Options Evaluation",
     "history_config": {
         "save_count": 1,
